@@ -16,14 +16,11 @@ This is a simple but engaging Flutter game where players use a slider to guess a
 <h2>Getting Started</h2> 
 <ol> 
 <li><strong>Clone the repository:</strong> 
-   <code>bash 
-   git clone https://github.com/your-username/Bullseye.git</code></li> 
+   <code>bash git clone https://github.com/your-username/Bullseye.git</code></li> 
 <li><strong>Install dependencies:</strong> 
-   <code>bash 
-   flutter pub get</code></li> 
+   <code>bash flutter pub get</code></li> 
 <li><strong>Run the app:</strong> 
-   <code>bash 
-   flutter run</code> 
+   <code>bash flutter run</code> 
 </li> 
 </ol> 
 <h2>Contributing</h2> 
