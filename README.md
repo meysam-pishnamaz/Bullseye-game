@@ -23,7 +23,8 @@ This is a simple but engaging Flutter game where players use a slider to guess a
    flutter pub get</code></li> 
 <li><strong>Run the app:</strong> 
    <code>bash 
-   flutter run</code></li> 
+   flutter run</code> 
+</li> 
 </ol> 
 <h2>Contributing</h2> 
 Contributions are welcome! If you have any ideas for improvements or new features, please open an issue or submit a pull request. 
