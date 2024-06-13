@@ -25,6 +25,3 @@ This is a simple but engaging Flutter game where players use a slider to guess a
 </ol> 
 <h2>Contributing</h2> 
 Contributions are welcome! If you have any ideas for improvements or new features, please open an issue or submit a pull request. 
-<h2>License</h2> 
-This project is licensed under the <a href="LICENSE">MIT License</a>.  
- 
